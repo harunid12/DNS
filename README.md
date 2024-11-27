@@ -4,4 +4,5 @@ DNS adalah sistem yang berfungsi untuk menerjemahkan nama domain menjadi alamat 
 
 ## Cara Kerja DNS
 
-1. Permintaan DNS (Query DNS)
+**1. Permintaan DNS (Query DNS)**
+-     Proses ini memungkinkan pengguna mengakses layanan di internet dengan menggunakan nama domain yang mudah diingat, tanpa harus mengingat alamat IP yang kompleks
