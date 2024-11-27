@@ -29,7 +29,7 @@ DNS adalah sistem yang berfungsi untuk menerjemahkan nama domain menjadi alamat 
 -   dengan alamat IP yang sudah ditemukan, perangkat dapat menghubungi server yang tepat dan memuat situs web yang diminta di browser.
 
 
-# Skema Proses DNS Secara Ringkas:
+## Skema Proses DNS Secara Ringkas:
 1. **User → Browser**: Memasukkan nama domain.
 2. **Browser → Resolver DNS**: Minta alamat IP.
 3. **Resolver DNS → Root Nameserver**: Cari informasi.
